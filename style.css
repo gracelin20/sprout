@@ -1,0 +1,22 @@
+body {
+    background-image: url("peas.gif");
+}
+
+h1 {
+    color: #810f09;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 35px;
+
+
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
